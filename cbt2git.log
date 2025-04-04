@@ -1,0 +1,6 @@
+2025-04-04 03:22:59.584774 - Received CBT.V508.FILE1002.PDS from FILE1002.XMI 
+2025-04-04 03:22:59.585461 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1002.PDS, moved to PDS/$$$#DATE
+2025-04-04 03:22:59.585617 - Found @FIL1002.txt (text/plain) in CBT.V508.FILE1002.PDS, moved to PDS/@FIL1002
+2025-04-04 03:22:59.586067 - Found SMPE001.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE001.pdf
+2025-04-04 03:22:59.586628 - Found SMPE002.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE002.pdf
+2025-04-04 03:22:59.586953 - Found SMPE003.pdf (application/pdf) in CBT.V508.FILE1002.PDS, moved to docs/SMPE003.pdf
